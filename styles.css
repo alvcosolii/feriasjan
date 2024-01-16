@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(229, 248, 242);
+    font-family: "kanit";
+    padding-left: 200px;
+}
+
+.titulo{
+    color: rgb(130, 130, 17);
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.hp{color: blue; font-size: 20px;}
+.paragrafo{color: rgb(231, 30, 30);font-size: 30px; font-style: italic;}
+
+.nome_prato{
+text-decoration: none;
+font-size: 24px;
+
+}
+
+.imagem{
+    border-radius: 20px;
+    transition: 0.5s ease-in-out;
+    
+}
+
+.imagem:hover{
+    transform: scale(1.05);    
+}
+
+ul{
+    list-style: none;
+}
+
